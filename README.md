@@ -19,6 +19,6 @@ Example to create simple C Sharp project in local Windows System and deploy over
     Create new dotnet project 
     
     ``` bash 
-    dotnet new webapi -n {app_name}
+    dotnet new webapi -n <app_name>
     ```
     Create webapi based project 
